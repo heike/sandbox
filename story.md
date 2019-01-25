@@ -8,4 +8,4 @@ hello
 
 today is Friday
 Tomorrow is saturday
-mONDAY
+
