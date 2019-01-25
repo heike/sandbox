@@ -8,4 +8,9 @@ hello
 
 today is Friday
 Tomorrow is saturday
+<<<<<<< Solid-Mercury-patch-3
+
+Monday
+=======
 Sunday
+>>>>>>> master
